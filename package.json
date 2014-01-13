@@ -1,0 +1,26 @@
+{
+  "name": "SimpleBlog",
+  "version": "0.0.1",
+  "description": "A basic markdown blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [],
+  "author": "Alan Languirand <alan@13protons.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.1.x",
+    "ejs": "~0.8.x",
+    "less-middleware": "~0.1.9",
+    "multimarkdown": "0.0.15",
+    "markdown-extra": "~0.1.0",
+    "marked": "~0.3.0",
+    "node.extend": "~1.0.9"
+  },
+  "engines": {
+    "node": ">= 0.10.x",
+    "npm": ">= 1.2.0"
+  }
+}
