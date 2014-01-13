@@ -14,7 +14,6 @@
     "express": "~3.1.x",
     "ejs": "~0.8.x",
     "less-middleware": "~0.1.9",
-    "multimarkdown": "0.0.15",
     "markdown-extra": "~0.1.0",
     "marked": "~0.3.0",
     "node.extend": "~1.0.9"
